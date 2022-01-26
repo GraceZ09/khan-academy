@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>khan academy</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Courses</a></li>
+                <li><input type="search01" id="search01" placeholder="search"></li>
+            </ul>
+                <h2><a href="https://www.khanacademy.org/">Khan academy</a></h2>
+            <ul>
+                <li><a href="https://www.khanacademy.org/donate">Donate</a></li>
+                <li><a href="https://www.khanacademy.org/login">Login</a></li>
+                <li><a href="https://www.khanacademy.org/signup">Sign Up</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <img src="peopleenjoylearning.html" alt="people enjoy learning">
+        <h1>For every student, every classroom. Real results.</h1>
+        <h4>We're a nonprofit with the mission to provide a free, word-class education for anyone, anywhere</h4>
+        <ul>
+            <li><a href="https://www.khanacademy.org/signup">Learners</a></li>
+            <li><a href="https://www.khanacademy.org/signup?isteacher=1">Teachers</a></li>
+            <li><a href="https://www.khanacademy.org/signup?isparent=1">Districts</a></li>
+            <li><a href="https://www.khanacademy.org/signup?isparent=1">Parents</a></li>
+        </ul>
+    </section>
+
+    <div></div>
+
+    <section>
+        <h3>Why khan academy works</h3>
+    </section>
+</body>
+</html>
